@@ -2,6 +2,9 @@
 
 <div align="center">
 
+
+
+
 ![To-Do List Demo](https://img.shields.io/badge/Status-Live-brightgreen)
 ![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.x-purple?logo=vite)
@@ -10,12 +13,10 @@
 
 **A sleek, modern to-do list application built with React and Vite**
 
-
-[🚀 Live Demo](your-live-url-here) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/to-do-list2/issues)
-
 </div>
 
 ---
+Live Demo:https://bhagirathsinhrana378.github.io/To-Do-list_2/
 
 ## 🌟 Features
 
